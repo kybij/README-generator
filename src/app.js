@@ -26,7 +26,7 @@ const generatePage = (answers) => {
 
 ## Description 
 
-   ${answers.description} 
+${answers.description} 
 
 
 ## Table of Contents
@@ -41,32 +41,32 @@ const generatePage = (answers) => {
 
 ## Installation
 
- ${answers.installation}
+${answers.installation}
 
 
 ## Usage 
 
- ${answers.usage}
+${answers.usage}
    
 
 ## Contributors
 
- ${answers.contributors}
+${answers.contributors}
 
 
 ## License
 
-  ${badge}
+${badge}
 
 
 ## Tests
 
-  ${answers.test}
+${answers.test}
 
 
 ## Contact
  
- ${answers.email}
+${answers.email}
   
 [${answers.github}](https://github.com/${answers.github})
 `;
