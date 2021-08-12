@@ -35,7 +35,7 @@ ${answers.description}
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [License](#license)
-* [Tests](#test)
+* [Tests](#tests)
 * [Contact](#contact)
 
 
@@ -61,7 +61,7 @@ ${badge}
 
 ## Tests
 
-${answers.test}
+${answers.tests}
 
 
 ## Contact
@@ -109,7 +109,7 @@ inquirer.prompt([
   {
     type: "input",
     message: "How do you test your application?",
-    name: "test"
+    name: "tests"
   },
   {
     type: "input",
